@@ -40,7 +40,7 @@
 ## Web 세부 일정
 | 강의              | 발표자 | 날짜 |
 | -----------------| ------- | --- |
-| [1장. web 이란? (예시)](./1장.%20web%20이란?)| Devinan | 4 / 10 |
+| [1장. web 이란? (예시)](https://github.com/devinan/Anyone-Study-Group-Guide/tree/master/1%EC%9E%A5.%20web%20%EC%9D%B4%EB%9E%80%3F)| Devinan | 4 / 10 |
 | 1장. web 이란? (예시)| Devinan | 4 / 10 |
 | 1장. web 이란? (예시)| Devinan | 4 / 10 |
 | 1장. web 이란? (예시)| Devinan | 4 / 10 |
